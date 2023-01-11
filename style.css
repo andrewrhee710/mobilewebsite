@@ -1,0 +1,29 @@
+img {
+    width: 75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+iframe {
+    width: 100%;
+}
+
+h5 {
+    text-align: center;
+}
+
+.group-link {
+    font-size: 50px;
+    text-align: center;
+}
+
+.citation {
+    font-size: 15px;
+    text-align: center;
+}
+
+.team-photo {
+    width: 50%;
+    border-style: solid;
+}
